@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/form-generator/static/css/main.daf69faf.css",
-    "main.js": "/form-generator/static/js/main.6e372f68.js",
-    "static/js/787.2440c5ec.chunk.js": "/form-generator/static/js/787.2440c5ec.chunk.js",
-    "index.html": "/form-generator/index.html",
-    "main.daf69faf.css.map": "/form-generator/static/css/main.daf69faf.css.map",
-    "main.6e372f68.js.map": "/form-generator/static/js/main.6e372f68.js.map",
-    "787.2440c5ec.chunk.js.map": "/form-generator/static/js/787.2440c5ec.chunk.js.map"
+    "main.css": "/image-gallery/static/css/main.daf69faf.css",
+    "main.js": "/image-gallery/static/js/main.14f456b5.js",
+    "static/js/787.2440c5ec.chunk.js": "/image-gallery/static/js/787.2440c5ec.chunk.js",
+    "index.html": "/image-gallery/index.html",
+    "main.daf69faf.css.map": "/image-gallery/static/css/main.daf69faf.css.map",
+    "main.14f456b5.js.map": "/image-gallery/static/js/main.14f456b5.js.map",
+    "787.2440c5ec.chunk.js.map": "/image-gallery/static/js/787.2440c5ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.daf69faf.css",
-    "static/js/main.6e372f68.js"
+    "static/js/main.14f456b5.js"
   ]
 }
